@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+  </title>
+  <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet">
+</head>
+<body>
+
+
+  <div class="container">
+    <div class="jumbotron text-center">
+<h1 font size="6"><div style="font-family: 'Homemade Apple', serif;">Bright Eyed Bakery</h1>
+    </div>
+  </div>
+  </style>
+</head>
+<body>
+<center>
+  <p>  <a href="Home.html"><div style="font-family: 'Shadows Into Light Two', serif;">Home</div><div id="nav"><a href="Home.html"></a>|
+<a href="About.html"><div style="font-family: 'Shadows Into Light Two', serif;">About</div><div id="nav"><a href="About.html"></a> | <a href="Menu.html"><div style="font-family: 'Shadows Into Light Two', serif;">Menu</div><div id="nav"><a href="Menu.html"></a><div id="nav"><a href="Menu.html"></a>
+</p>
+
+</body>
+</html>
+  <title>
+        Images images Images
+      </title>
+    </head>
+    <body>
+
+      <!--  bringing in local image -->
+    <center>  <img  src="/users/maggie/desktop/a-s 345/greta-punch-62508.jpg" width="900px" height="600px" alt=/> <center/>
+      <!--  the orginal image is 1500X1500 width and height attributes override this -->
+
+    </body>
+
+  <div class="container">
+    <div class="row">
+      <div <div style="font-family: 'Shadows Into Light Two', serif;" class="col-med-6">
+
+
+        <h2>Who We Are </h2>
+        <p>Bright eyed bakery was established in 2016 when two old college roommates decided they wanted to make everyones mornings just a little more bearable. From there, they started personally delivering their favorite treats to their favorite people.</p>
+        <p>Bright Eyed Bakery is a fun, upbeat atmosphere where you can come in and grab your tasty treats to-go, or sit with your pals and catch up over something sweet and delicious. We will warn you, spaces can get crowded so allow some extra time if you're in a hurry!</p>
+      <div class="col-lg-1">
+        <h2></h2>
+        <br><b> <h2 <div style="font-family: 'Homemade Apple', serif;"font size="3"> Bright Eyed Bakery feautured tasty treats.</b> </h></br>
+<br>
+<br>
+
+
+            <title>
+                  Images images Images
+                </title>
+              </head>
+              <body>
+
+                <!--  bringing in local image -->
+                <img src="/users/maggie/desktop/a-s 345/brian-chan-12168.jpg" width="400px" height="400px" alt=/>
+                <!--  the orginal image is 1500X1500 width and height attributes override this -->
+
+              </body>
+
+      </div>
+      <title>
+            Images images Images
+          </title>
+        </head>
+        <body>
+
+          <!--  bringing in local image -->
+       <img  src="/users/maggie/desktop/a-s 345/brooke-lark-203839.jpg" width="400px" height="400px" alt=/>
+          <!--  the orginal image is 1500X1500 width and height attributes override this -->
+
+        </body>
+        <title>
+              Images images Images
+            </title>
+          </head>
+          <body>
+
+            <!--  bringing in local image -->
+         <img  src="/users/maggie/desktop/a-s 345/jennifer-pallian-306898.jpg" width="400px" height="400px" alt=/>
+            <!--  the orginal image is 1500X1500 width and height attributes override this -->
+
+          </body>
+          <title>
+                Images images Images
+              </title>
+            </head>
+            <body>
+
+              <!--  bringing in local image -->
+           <img  src="/users/maggie/desktop/a-s 345/karly-gomez-216612.jpg" width="400px" height="400px" alt=/>
+              <!--  the orginal image is 1500X1500 width and height attributes override this -->
+
+            </body>
+            <title>
+                  Images images Images
+                </title>
+              </head>
+              <body>
+
+                <!--  bringing in local image -->
+             <img  src="/users/maggie/desktop/a-s 345/rachael-gorjestani-197369.jpg" width="400px" height="400px" alt=/>
+                <!--  the orginal image is 1500X1500 width and height attributes override this -->
+
+              </body>
+    <div class="col-sm-12"</div>
+
+        <h1>Information</h1>
+        <b>PHONE</br></b>
+        (347) 555-1234
+
+        <b><br>LOCATION</br></b>
+        74 5th Avenue
+        at St. Marks Place
+        Brooklyn, New York 11217
+
+        <b><br>HOURS</br></b>
+        Tuesday-Friday 6:30a–12p<br>
+        Saturday 7a–12p<br>
+         Sunday and Monday-
+         Closed<br><br>
+      </div>
+
+    </div>
+  </div>
+
+
+</body>
+</html>

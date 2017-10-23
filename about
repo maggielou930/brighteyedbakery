@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet">
+
+    <div id="container">
+      <div id="jumbotron text-center">
+  <h1 font size="9"><div style="font-family: 'Homemade Apple', serif;"><center>About Bright Eyed Bakery</h1></center>
+      </div>
+    </div>
+    </style>
+  </head>
+  <body>
+    <center>
+       <a href="Home.html"><div style="font-family: 'Shadows Into Light Two', serif;">Home</div><div id="nav"><a href="Home.html"></a>|
+    <a href="About.html"><div style="font-family: 'Shadows Into Light Two', serif;">About</div><div id="nav"><a href="About.html"></a> | <a href="Menu.html"><div style="font-family: 'Shadows Into Light Two', serif;">Menu</div><div id="nav"><a href="Menu.html"></a>
+    <body>
+
+      <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet">
+
+      <title>
+    About Bright Eyed Bakery
+  </title>
+  <center>  <img  src="/users/maggie/desktop/a-s 345/anh-tran-356831.jpg" width="600px" height="400px" alt=/> <center/>
+
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300" rel="stylesheet">
+  <link href='css/style.css' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+  <!-- This is NOT production ready code but a good demo of the principles -->
+<div style="font-family: 'Shadows Into Light Two', serif;">
+  <div id="container">
+    <div id="header">
+      <h1> Special Order Items </h1>
+    </div>
+
+    <div id="left_nav">
+
+        <li>Birthday Cakes</li>
+        <li>Wedding Cakes</li>
+        <li>Dessert Bar</li>
+        <li>Trays of Cookies</li>
+        <li>Office Meeting Goodies</li>
+
+    </div>
+    <div id="content">
+      <center>
+      <p>We love to make your mornings as sweet and smooth as we can. We hope that the time that it takes for you to stop in, is time well spent, and starts your mornings on the right step. Although our lines can sometimes be long, we promise our treats are worth the wait! </p>
+      <p>Don't waste time if you're planning to stop by! While we bake our hearts out in the mornings, our most popular treats will sell fast. It's always wise to call and order and pay ahead if you want to secure all your favorites, or if you have a large order!</p>
+      <p>We love new! Have you had a tasty treat somewhere else you would like to see us make? Tell us about it and we will see if it fits into our recipe book.</p>
+      <p>Be sure to enroll in our loyal customers program to earn free goodies! </p>
+</center>
+    </div>
+  </div>
+
+  <div class="sticky_footer">
+    <p> Please call to order no later than 3 business day notice. </p>
+  </div>
+
+</body>
+</html>
